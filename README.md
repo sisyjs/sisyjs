@@ -26,9 +26,4 @@ Here are some ideas to get you started:
      &ltimes; I'm a software engineer and I work as a front-end developer &rtimes; 
   </samp
 </h4>
-<h4 align="center">
-  <samp>
-     < I work as a front-end developer />
-  </samp
-</h4>
 <h5></h5>
