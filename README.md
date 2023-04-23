@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/sajadEng?tab=repositories" target="_black">Python</a>
     </br>
     <a href="https://github.com/sajadEng?tab=repositories" target="_black">HTML</a>
-    </br>
+    </hr>
     <a href="https://github.com/sajadEng?tab=repositories" target="_black">CSS</a>
     </br>
     <a href="https://github.com/sajadEng?tab=repositories" target="_black">JavaScript</a>
