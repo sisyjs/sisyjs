@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 styel="font-famly: monospase;" align="center">
   <samp>
-    $isaquo; Hi There! I'm <b>Sajad</b> &rsaquo;
+    &lsaquo; Hi There! I'm <b>Sajad</b> &rsaquo;
   </samp>
 </h3>
 <br>
