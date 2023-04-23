@@ -21,5 +21,9 @@ Here are some ideas to get you started:
   </samp>
 </h3>
 <br>
-<h5> < I'm a software engineer > </h5>
-<h5> < I work as a front-end developer > </h5>
+<h4 align="center">
+  <samp>
+     < I'm a software engineer and I work as a front-end developer > 
+  </samp
+</h4>
+<h5></h5>
