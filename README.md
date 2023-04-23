@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br>
 <h4 align="center">
   <samp>
-     < I'm a software engineer and I work as a front-end developer /> 
+     &ltimes; I'm a software engineer and I work as a front-end developer &rtimes; 
   </samp
 </h4>
 <h4 align="center">
