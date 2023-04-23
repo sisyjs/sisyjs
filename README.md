@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 styel="font-famly: monospase; text-align: center;">Hi There! I'm <b>Sajad</b></h3>
+<h3 styel="font-famly: monospase;" align="center">Hi There! I'm <b>Sajad</b></h3>
 <br>
 <h5> < I'm a software engineer > </h5>
 <h5> < I work as a front-end developer > </h5>
