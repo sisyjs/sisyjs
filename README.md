@@ -1,8 +1,7 @@
 
 
 
-<h1>Hey!</h1>
-<h1>I'm Sajad:)</h1>
+<h1>Hey!<br>I'm Sajad</h1>
 <p>
   🔭 I’m currently working on my social and technical skills
 </p>
