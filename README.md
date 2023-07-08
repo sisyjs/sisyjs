@@ -1,39 +1,20 @@
 
 
-<!--
-**sajadEng/SajadEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1>Hey!</h1>
+<h1>I'm Sajad:)</h1>
+<p>
+  🔭 I’m currently working on my social and technical skills
+</p>
+<p>
+  🌱 I’m currently learning javascript and react.js
+</p>
+<P>
+  💬 Ask me about HTML5, CSS3, Javascript
+</P>
+<p>
+  ⚡ Fun fact: I think 'Better never to have been'
+</p>
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-<h3 styel="font-famly: monospase;" align="center">
-  <samp>
-    &dashv; Hi There! I'm <b>Sajad</b> &vdash;
-  </samp>
-</h3>
-<br>
-<h4 align="center">
-  <samp>
-     &ltimes; I'm a software engineer and I work as a front-end developer &rtimes; 
-  </samp
-</h4>
-<h5 align="center">
-  <samp>
-    : <a href="https://github.com/sajadEng?tab=repositories" target="_black">Python</a> :
-    </br>
-    < <a href="https://github.com/sajadEng?tab=repositories" target="_black">HTML</a>
-    </hr>
-    <a href="https://github.com/sajadEng?tab=repositories" target="_black">CSS</a> />
-    </br>
-    { <a href="https://github.com/sajadEng?tab=repositories" target="_black">JavaScript</a> }
-  </samp>
-</h5>
