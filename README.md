@@ -15,4 +15,4 @@
 <p>
   ⚡ Fun fact: I think it's 'Better never to have been'
 </p>
-<code>I use Arch btw :)</code>
+<p style='font-weigth: bold; font-family: monospace'>I use Arch btw</p>
