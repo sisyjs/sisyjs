@@ -7,7 +7,7 @@
   🔭 I'm working on my social skills beside technicals
 </p>
 <p>
-  🌱 I’m currently learning react.js
+  🌱 I’m currently learning rust
 </p>
 <P>
   💬 Ask me about HTML5, CSS3, Javascript
