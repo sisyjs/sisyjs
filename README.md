@@ -4,13 +4,10 @@
 <H3>I'm a software engineer and I work as a frontend developer.</H3>
 
 <p>
-  🔭 I'm working on my social skills beside technicals
-</p>
-<p>
-  🌱 I’m currently learning rust
+  🌱 I’m currently learning Nodejs and a bit of Rust too
 </p>
 <P>
-  💬 Ask me about HTML5, CSS3, Javascript
+  💬 Ask me about Linux, Javascript, 
 </P>
 <p>
   ⚡ Fun fact: I think it's 'Better never to have been'
